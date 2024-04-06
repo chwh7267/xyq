@@ -1,2 +1,2 @@
-  # Xyq
-HttPS://吉特布网/Chwh8800/Xyq/梅恩/Xyqtvdg。Json
+   # Xyq
+https://github.moeyy.xyz/https://raw.githubusercontent.com/chwh888/xyq/main/XYQTVBox.json
