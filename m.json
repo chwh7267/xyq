@@ -6,7 +6,7 @@
       "name": "直播",
       "type": 0,
       "playerType": 1,
-      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+      "url": "https://mirror.ghproxy.com/https://github.com/chwh7267/TVBox/blob/main/live-1410.txt",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
@@ -1739,3 +1739,4 @@
     "api.htpan.net"
   ]
 }
+
