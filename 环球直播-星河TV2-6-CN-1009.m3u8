@@ -1,8 +1,8 @@
 #EXTM3U
 央视,#genre#
-#EXTINF:-1 ,CCTV4K
+#EXTINF:-1 ,央视,CCTV4K
 https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
-#EXTINF:-1 ,BTV纪实科教 8K
+#EXTINF:-1 ,央视,BTV纪实科教 8K
 http://159.75.85.63:6798
 #EXTINF:-1 ,LoveNature4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
