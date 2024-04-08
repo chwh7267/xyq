@@ -1,28 +1,27 @@
 #EXTM3U
-CN央视
-#EXTINF:-1 ,央视,CCTV4K
+#EXTINF:-1 group-title="央视",CCTV4K
 https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
-#EXTINF:-1 ,央视,BTV纪实科教 8K
+#EXTINF:-1 group-title="央视",BTV纪实科教 8K
 http://159.75.85.63:6798
-#EXTINF:-1 ,LoveNature4K
+#EXTINF:-1 group-title="央视",LoveNature4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 ,LoveNature4K
+#EXTINF:-1 group-title="央视",LoveNature4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 ,CCTV1
+#EXTINF:-1 group-title="央视",CCTV1
 http://111.74.155.231:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 ,CCTV2
+#EXTINF:-1 group-title="央视",CCTV2
 http://111.74.155.231:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 ,CCTV3
+#EXTINF:-1 group-title="央视",CCTV3
 http://111.74.155.231:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 ,CCTV4
+#EXTINF:-1 group-title="央视",CCTV4
 http://111.74.155.231:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 ,CCTV5
+#EXTINF:-1 group-title="央视",CCTV5
 http://111.74.155.231:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 ,CCTV6
+#EXTINF:-1 group-title="央视",CCTV6
 http://111.74.155.231:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 ,CCTV7
+#EXTINF:-1 group-title="央视",CCTV7
 http://111.74.155.231:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 ,CCTV8
+#EXTINF:-1 group-title="CN央视",CCTV8
 http://111.74.155.231:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 ,CCTV9
 http://111.74.155.231:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
