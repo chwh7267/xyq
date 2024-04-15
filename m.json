@@ -42,6 +42,20 @@
       "ext": "./lib/drpy.js"
     },
     {
+      "key": "drpy_js_酷我歌单",
+      "name": "酷我歌单[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/酷我歌单.js"
+    },
+    {
+      "key": "drpy_js_酷狗MV",
+      "name": "酷狗MV[js]",
+      "type": 3,
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/酷狗MV.jsd"
+    },
+    {
       "key": "drpy_js_奇珍异兽",
       "name": "奇珍异兽[js]",
       "type": 3,
@@ -117,37 +131,48 @@
       "key": "csp_Upyunso",
       "name": "📀UP云搜(搜索)",
       "type": 3,
-      "api": "csp_Upyunso",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./lib/alitoken.txt"
-    },
+         "api" : "csp_Upyunso" ,
+         "playerType" : 1 ,
+         "searchable" : 1 ,
+         "quickSearch" : 1 ,
+         "filterable" : 0 ,
+         "ext" : "./lib/alitoken.txt"
+       } ,
     {
-      "key": "csp_XYQHikerAL_玩偶哥哥",
-      "name": "📀玩偶哥哥(优)",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/玩偶哥哥.json"
-    },
+         "key" : "csp_XYQHikerAL_玩偶哥哥" ,
+         "name" : "代吉尼哥哥(优)" ,
+         "type" : 3 ,
+         "api" : "csp_XYQHikerAL" ,
+         "playerType" : 1 ,
+         "searchable" : 1 ,
+        "quickSearch" : 1 ,
+                   "filterable" : 1 ,
+                  "ext" : "./lib/玩偶哥哥.json"
+               } ,
+     {
+                "key" : "csp_XYQHikerAL_酷我" ,
+               "name" : "这个司仪我" ,
+              "type" : 3 ,
+             "api" : "csp_XYQHikerAL" ,
+            "playerType" : 1 ,
+           "searchable" : 1 ,
+          "quickSearch" : 1 ,
+         "filterable" : 1 ,
+        "ext" : "./lib/酷我.json"
+     } ,
     {
-      "key": "csp_XYQHikerAL_云盘资源",
-      "name": "📀云盘资源(搜索)",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/云盘资源.json"
-    },
+                  "key" : "csp_XYQHikerAL_云盘资源" ,
+                 "name" : "今日云盘资源(搜索)" ,
+                "type" : 3 ,
+               "api" : "csp_XYQHikerAL" ,
+              "playerType" : 1 ,
+             "searchable" : 1 ,
+            "quickSearch" : 1 ,
+           "filterable" : 1 ,
+          "ext" : "./lib/云盘资源.json"
+       } ,
     {
-      "key": "csp_XYQHikerAL_云盘资源分享",
+        "key" : "csp_XYQHikerAL_云盘资源分享" ,
       "name": "📀云盘资源分享(搜索)",
       "type": 3,
       "api": "csp_XYQHikerAL",
