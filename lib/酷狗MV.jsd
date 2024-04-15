@@ -1,6 +1,6 @@
 var rule = {
     title:'酷狗MV',
-    host:'https://www.kugou.com',
+    host:'https://music.163.com/',
     homeUrl:'/mvweb/html/',
     url:'/mvweb/html/index_fyclass_fypage.html',
     searchUrl:'https://api.linhun.vip/api/kgmv?apiKey=e7e165ab27316db14467c07e00f3820d&name=**&n=',
