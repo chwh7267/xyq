@@ -175,6 +175,17 @@
         "ext" : "./lib/酷我.json"
      } ,
     {
+                "key" : "csp_XYQHikerAL_酷奇MV" ,
+               "name" : "酷奇MV" ,
+              "type" : 3 ,
+             "api" : "csp_XYQHikerAL" ,
+            "playerType" : 1 ,
+           "searchable" : 1 ,
+          "quickSearch" : 1 ,
+         "filterable" : 1 ,
+        "ext" : "./lib/酷奇MV.json"
+     } ,
+    {
                   "key" : "csp_XYQHikerAL_云盘资源" ,
                  "name" : "今日云盘资源(搜索)" ,
                 "type" : 3 ,
