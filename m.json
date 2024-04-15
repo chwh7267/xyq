@@ -154,7 +154,7 @@
        } ,
     {
          "key" : "csp_XYQHikerAL_玩偶哥哥" ,
-         "name" : "代吉尼哥哥(优)" ,
+         "name" : "玩偶哥哥(优)" ,
          "type" : 3 ,
          "api" : "csp_XYQHikerAL" ,
          "playerType" : 1 ,
@@ -165,7 +165,7 @@
                } ,
      {
                 "key" : "csp_XYQHikerAL_酷我" ,
-               "name" : "这个司仪我" ,
+               "name" : "酷我音乐" ,
               "type" : 3 ,
              "api" : "csp_XYQHikerAL" ,
             "playerType" : 1 ,
