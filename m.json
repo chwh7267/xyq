@@ -1362,7 +1362,7 @@
       "key": "我的音乐",
       "name": "我的音乐(网易)",
       "type": 0,
-      "api": "https://api.linhun.vip/yy.php/",
+      "api": "https://api.linhun.vip/api/wyyyy?apiKey=b96c9be0f9e7d8bbe85236cd08847c8d&name=我的楼兰&n=",
       "searchable": 1,
       "quickSearch": 1
     }
