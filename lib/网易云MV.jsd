@@ -1,8 +1,8 @@
 var rule = {
     title:'网易云MV',
     host:'https://music.163.com',
-    homeUrl:'/#/mv',
-    url:'/#/playlist?id=9666066738',
+    homeUrl:'/#/discover/',
+    url:'/#/discover/playlist/?cat=KTV/index_fyclass_fypage.html',
     searchUrl:'https://api.linhun.vip/api/wyymv?apiKey=e236aa99c2b2229972f6c82231d6594c&name=**&n=',
     searchable:2,
     quickSearch:0,
