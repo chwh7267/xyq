@@ -66,7 +66,7 @@
       "key": "drpy_js_网易云音乐MV",
       "name": "网易云音乐MV[js]",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
+      "api": "https://api.linhun.vip/api/wyyyy?apiKey=b96c9be0f9e7d8bbe85236cd08847c8d&name=**&n=",
       "ext": "./lib/网易云音乐MV.jsd"
     },
     {
@@ -1357,6 +1357,24 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
       "quickSearch": 1
+    },
+    {
+      "key": "我的音乐",
+      "name": "我的音乐(网易)",
+      "type": 0,
+      "api": "https://music.163.com/#/playlist?id=9666066738&_hash=songlist-5237761/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "name": "🐉神族九帝",
+      "server": "https://alist.shenzjd.com",
+      "startPage": "",
+      "search": false,
+      "headers": null,
+      "params": null,
+      "isActive": true,
+      "id": "f346cae0-2805-7dd5-aa87-0be1284dd39a"
     }
   ],
   "parses": [
