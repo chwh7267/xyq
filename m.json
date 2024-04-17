@@ -1362,7 +1362,7 @@
       "key": "我的音乐",
       "name": "我的音乐(网易)",
       "type": 0,
-      "api": "https://music.163.com/#/playlist?id=9666066738&_hash=songlist-5237761/",
+      "api": "https://api.linhun.vip/yy.php/",
       "searchable": 1,
       "quickSearch": 1
     }
