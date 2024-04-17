@@ -1365,16 +1365,6 @@
       "api": "https://music.163.com/#/playlist?id=9666066738&_hash=songlist-5237761/",
       "searchable": 1,
       "quickSearch": 1
-    },
-    {
-      "name": "🐉神族九帝",
-      "server": "https://alist.shenzjd.com",
-      "startPage": "",
-      "search": false,
-      "headers": 0,
-      "params": 0,
-      "isActive": true,
-      "id": "f346cae0-2805-7dd5-aa87-0be1284dd39a"
     }
   ],
   "parses": [
