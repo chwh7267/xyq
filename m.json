@@ -1371,8 +1371,8 @@
       "server": "https://alist.shenzjd.com",
       "startPage": "",
       "search": false,
-      "headers": null,
-      "params": null,
+      "headers": 0,
+      "params": 0,
       "isActive": true,
       "id": "f346cae0-2805-7dd5-aa87-0be1284dd39a"
     }
