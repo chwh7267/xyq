@@ -4,6 +4,10 @@ var rule = {
     homeUrl:'/mvweb/html/',
     url:'/mvweb/html/index_fyclass_fypage.html',
     
+    searchable:2,
+    quickSearch:0,
+    class_parse:'#radioList&&dd;a&&Text;a&&href;.*/index_(\\d+)_1.html',
+    
     headers:{
         'User-Agent':'PC_UA'
     },
