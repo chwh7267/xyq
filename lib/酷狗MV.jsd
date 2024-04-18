@@ -7,7 +7,6 @@ var rule = {
     searchable:2,
     quickSearch:0,
     class_parse:'#radioList&&dd;a&&Text;a&&href;.*/index_(\\d+)_1.html',
-    
     headers:{
         'User-Agent':'PC_UA'
     },
@@ -20,4 +19,3 @@ var rule = {
     二级:'*',
     搜索:'js:let d=[];let html=request(input);let list=JSON.parse(html).sun;for(let j=1;j<=list;j++){let t=JSON.parse(request(MY_URL+j));d.push({title:t.name,desc:t.author,img:t.img,url:t.video})}setResult(d)',
 }
-
