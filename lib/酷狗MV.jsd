@@ -2,7 +2,7 @@ var rule = {
     title:'酷狗MV',
     host:'https://www.kugou.com',
     homeUrl:'/mvweb/html/',
-    
+    url:'/mvweb/html/index_fyclass_fypage.html',
     
     headers:{
         'User-Agent':'PC_UA'
